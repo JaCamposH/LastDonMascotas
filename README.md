@@ -69,4 +69,4 @@ En **Lastdon Mascotas**, nos esforzamos por ofrecer una plataforma integral para
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/
+   git clone https://github.com/JaCamposH/LastDonMascotas.git
